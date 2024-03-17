@@ -1,0 +1,19 @@
+package testngTestcases;
+
+public class ParallelSuiteLevelTesting {
+/*	<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+	<suite name="Suite" parallel="tests" thread-count="2">
+		<test name="Test1">
+			<classes>
+				<class name="testngTestcases.ParallelClassTest1" />
+			</classes>
+		</test>
+		<test name="Test2">
+			<classes>
+				<class name="testngTestcases.ParallelClassTest2" />
+			</classes>
+		</test>
+	</suite>
+	*/
+}
